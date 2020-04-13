@@ -1,6 +1,6 @@
 # BookMyTrainAdmin
 
-# Link to the User Side Application -> https://github.com/Harshana-Rathnayaka/Train-Ticket-Booking-User-App
+# Link to the User Side Application -> https://github.com/Harshana-Rathnayaka/Online-Train-Ticket-Booking-User-App
 
 
 
