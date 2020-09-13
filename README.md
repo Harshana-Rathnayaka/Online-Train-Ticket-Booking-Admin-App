@@ -22,15 +22,15 @@
 
 ## 📃 Features
 
- - ***Dark Mode***
- - ***Create new train schedules***
- - ***Add new trains*** 
- - ***Add new Journeys*** 
- - ***Delete train schedules***
- - ***Remove a train*** 
- - ***Remove a journey*** 
- - ***Get the total user count*** 
- - ***Get the total revenue*** 
+ - Dark Mode
+ - Create new train schedules
+ - Add new trains
+ - Add new Journeys 
+ - Delete train schedules
+ - Remove a train 
+ - Remove a journey 
+ - Get the total user count
+ - Get the total revenue 
 
 ## 👷‍♂️ Built With
 
