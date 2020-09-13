@@ -147,6 +147,7 @@ $ flutter run
 <img href="https://facebook.com/DiloHashRoX" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">
 <img href="https://instagram.com/hash_dreeko" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 <img href="https://linkedin.com/in/harshana-rathnayaka" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+<img href="https://github.com/Harshana-Rathnayaka" src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white">
 <br>
 
 
