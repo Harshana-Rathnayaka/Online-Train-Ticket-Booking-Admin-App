@@ -52,6 +52,11 @@ $ flutter pub get
 $ flutter run
 ```
 
+## 📸 Screenshots
+| Light| Dark|
+|<img src="assets/images/light-1.png" width="400">|<img src="assets/images/dark-1.png" width="400">|
+
+
 ## 🤓 Author
 **Harshana Rathnayaka** 
 <br>
