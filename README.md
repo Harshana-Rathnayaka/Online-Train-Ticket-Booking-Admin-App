@@ -54,14 +54,76 @@
 - Clone this repo to your local machine using `https://github.com/Harshana-Rathnayaka/Online-Train-Ticket-Booking-Admin-App`
 
 ```shell
+
 $ git clone https://github.com/Harshana-Rathnayaka/Online-Train-Ticket-Booking-Admin-App
+
 ```
+
+> 🔥 Add to Firebase
+- Create a new project
+- Add the app to the project by providing the relevant details and the below package name
+
+```
+
+com.example.flutter_train_admin
+
+```
+
+- Download the `google-services.json` file and add it to the project's `app` directory
+- Add the following lines to the project level `build.gradle` file (`<project>/build.gradle`)
+
+```gradle
+
+buildscript {
+  repositories {
+    // Check that you have the following line (if not, add it):
+    google()  // Google's Maven repository
+  }
+  dependencies {
+    ...
+    // Add this line
+    classpath 'com.google.gms:google-services:4.3.3'
+  }
+}
+
+allprojects {
+  ...
+  repositories {
+    // Check that you have the following line (if not, add it):
+    google()  // Google's Maven repository
+    ...
+  }
+}
+
+```
+
+- Add the following lines to the app level `build.gradle` file (`<project>/<app-module>/build.gradle`)
+
+```gradle
+
+apply plugin: 'com.android.application'
+// Add this line
+apply plugin: 'com.google.gms.google-services'
+
+dependencies {
+  // add the Firebase SDK for Google Analytics
+  implementation 'com.google.firebase:firebase-analytics:17.5.0'
+  // add SDKs for any other desired Firebase products
+  // https://firebase.google.com/docs/android/setup#available-libraries
+}
+
+```
+
+- Save the files
 
 > 🏃‍♂️ Run and test the application
 - Run the following commands to run and test the application in an emulator or a real device
+
 ```dart
+
 $ flutter pub get
 $ flutter run
+
 ```
 
 ## 📸 Screenshots
@@ -95,15 +157,6 @@ $ flutter run
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2020 © <a href="http://fb.com/DreekoCorporations" target="_blank">Dreeko Corporations</a>
 
-## 🧑 User Application of the Train Booking System
+## 🧑 Train Ticket Booking User Application
 `https://github.com/Harshana-Rathnayaka/Online-Train-Ticket-Booking-User-App`
 
-
-## This is the admin side application of the train ticket booking system.
-
-The app is connected to a firebase database
-There's no user login or registration.
-The admin is able add or delete train schedules.
-Admin can view the total revenue.
-
-## Add the application to a firebase project and get the google services json file to connect with the user side as well as the database.
