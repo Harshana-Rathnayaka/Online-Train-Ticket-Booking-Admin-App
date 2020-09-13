@@ -20,6 +20,18 @@
 
 > ***An admin app made with Flutter for a train ticket booking system in Sri Lanka***
 
+## 📃 Features
+
+> - Dark Mode </br>
+> ***Create new train schedules*** </br>
+> ***Add new trains*** </br>
+> ***Add new Journeys*** </br>
+> ***Delete train schedules*** </br>
+> ***Remove a train*** </br>
+> ***Remove a journey*** </br>
+> ***Get the total user count*** </br>
+> ***Get the total revenue*** </br>
+
 ## 👷‍♂️ Built With
 
 * [Flutter](https://flutter.dev)
@@ -83,8 +95,8 @@ $ flutter run
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2020 © <a href="http://fb.com/DreekoCorporations" target="_blank">Dreeko Corporations</a>
 
-# Link to the User Side Application -> https://github.com/Harshana-Rathnayaka/Online-Train-Ticket-Booking-User-App
-
+## 🧑 User Application of the Train Booking System
+`https://github.com/Harshana-Rathnayaka/Online-Train-Ticket-Booking-User-App`
 
 
 ## This is the admin side application of the train ticket booking system.
