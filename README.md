@@ -54,7 +54,17 @@ $ flutter run
 
 ## 📸 Screenshots
 | Light| Dark|
+|------|-------|
 |<img src="assets/images/light-1.png" width="400">|<img src="assets/images/dark-1.png" width="400">|
+|<img src="assets/images/light-2.png" width="400">|<img src="assets/images/dark-2.png" width="400">|
+|<img src="assets/images/light-3.png" width="400">|<img src="assets/images/dark-3.png" width="400">|
+|<img src="assets/images/light-4.png" width="400">|<img src="assets/images/dark-4.png" width="400">|
+|<img src="assets/images/light-5.png" width="400">|<img src="assets/images/dark-5.png" width="400">|
+|<img src="assets/images/light-6.png" width="400">|<img src="assets/images/dark-6.png" width="400">|
+|<img src="assets/images/light-7.png" width="400">|<img src="assets/images/dark-7.png" width="400">|
+|<img src="assets/images/light-8.png" width="400">|<img src="assets/images/dark-8.png" width="400">|
+|<img src="assets/images/light-9.png" width="400">|<img src="assets/images/dark-9.png" width="400">|
+|<img src="assets/images/light-10.png" width="400">|<img src="assets/images/dark-10.png" width="400">|
 
 
 ## 🤓 Author
