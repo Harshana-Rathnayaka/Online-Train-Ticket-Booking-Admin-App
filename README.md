@@ -18,6 +18,8 @@
 
 ***Star ⭐ the repo if you like what you see. 😎***
 
+<img alt="cover" src="assets/images/cover.jpg" />
+
 > ***An admin app made with Flutter for a train ticket booking system in Sri Lanka***
 
 ## 📃 Features
