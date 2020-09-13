@@ -141,10 +141,18 @@ $ flutter run
 |<img src="assets/images/light-10.png" width="400">|<img src="assets/images/dark-10.png" width="400">|
 
 
-## 🤓 Author
+## 🤓 Author(s)
 **Harshana Rathnayaka** 
 <br>
 <img href="https://facebook.com/DiloHashRoX" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">
+<img href="https://instagram.com/hash_dreeko" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+<img href="https://linkedin.com/in/harshana-rathnayaka" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+<br>
+
+
+**The Dashboard Design is from [Santos Enoque](https://github.com/Santos-Enoque/)** <br>
+*[Admin Side Flutter E Commerce App](https://github.com/Santos-Enoque/admin_side_flutter_ecommerce_app)*
+
 
 ## 🤝 Contributing
 
